@@ -1,1 +1,1 @@
-export * from './StopWatch';
+export * from './styledStopWatch';

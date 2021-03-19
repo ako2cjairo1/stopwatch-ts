@@ -1,4 +1,4 @@
-import StopWatch from './components/StopWatch';
+import { StopWatch } from './feature/stopwatch';
 
 export default function Root() {
 	return <StopWatch />;
